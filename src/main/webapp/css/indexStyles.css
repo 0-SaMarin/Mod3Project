@@ -1,0 +1,22 @@
+body {
+  text-align: center;
+  background-image: url("/Mod3Project/images/campoImage.jpg"); /* sube un nivel para acceder a /images */
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  color: white;
+  text-shadow: 2px 2px 4px black;
+}
+
+h1 {
+  margin-bottom: 50px;
+}
+
+h2 {
+  margin-top: 30px;
+}
+
+p {
+  font-size: 20px;
+  margin-top: 20px;
+}

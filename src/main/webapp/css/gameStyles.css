@@ -1,0 +1,34 @@
+body {
+  text-align: center;
+  background-image: url("/Mod3Project/images/mazeImage.png"); /* sube un nivel para acceder a /images */
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  color: white;
+  text-shadow: 2px 2px 4px black;
+
+}
+
+h1 {
+  margin-bottom: 50px;
+}
+
+h2 {
+  margin-top: 30px;
+}
+
+p {
+  font-size: 20px;
+  margin-top: 20px;
+
+  h2 {
+    margin-top: 40px;
+  }
+  .button-group {
+    margin-top: 20px;
+  }
+
+  h2, h3, h4, h5 {
+    font-size: 28px;   /* make all headings same size */
+    color: white;      /* keep consistent color */
+  }

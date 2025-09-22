@@ -1,0 +1,16 @@
+button {
+.button-group button {
+  padding: 12px 25px;
+  font-size: 18px;
+  border-radius: 10px;
+  border: none;
+  background: linear-gradient(#444, #222);
+  color: #fff;
+  cursor: pointer;
+  transition: transform 0.2s, background 0.3s;
+}
+
+.button-group button:hover {
+  background: linear-gradient(#666, #333);
+  transform: scale(1.1);
+}
